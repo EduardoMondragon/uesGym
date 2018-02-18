@@ -1,0 +1,16 @@
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\bin\Debug\Agregar_usuario.exe.config
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\bin\Debug\Agregar_usuario.exe
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\bin\Debug\Agregar_usuario.pdb
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.csprojResolveAssemblyReference.cache
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.Properties.Resources.resources
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.csproj.GenerateResource.Cache
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.csproj.CoreCompileInputs.cache
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.exe
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.FrmAgregar.resources
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.Log_in.resources
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.frmprincipal.resources
+C:\Users\Luisa Peralta\source\repos\Agregar_usuario\Agregar_usuario\obj\Debug\Agregar_usuario.Ajustes.resources
+C:\Users\User\Source\Repos\uesGym\Agregar_usuario\bin\Debug\Agregar_usuario.exe.config
+C:\Users\User\Source\Repos\uesGym\Agregar_usuario\obj\Debug\Agregar_usuario.exe
+C:\Users\User\Source\Repos\uesGym\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
