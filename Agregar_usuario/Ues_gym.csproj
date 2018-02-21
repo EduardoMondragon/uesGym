@@ -74,6 +74,7 @@
     <Compile Include="Cambio_contrasena.Designer.cs">
       <DependentUpon>Cambio_contrasena.cs</DependentUpon>
     </Compile>
+    <Compile Include="Clientes.cs" />
     <Compile Include="Log_in.cs">
       <SubType>Form</SubType>
     </Compile>

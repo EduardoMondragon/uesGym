@@ -14,3 +14,6 @@ C:\Users\Luisa Peralta\Source\Repos\uesGym3\Agregar_usuario\obj\Debug\Ues_gym.cs
 C:\Users\Luisa Peralta\Source\Repos\uesGym3\Agregar_usuario\obj\Debug\Agregar_usuario.exe
 C:\Users\Luisa Peralta\Source\Repos\uesGym3\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
 C:\Users\Luisa Peralta\Source\Repos\uesGym3\Agregar_usuario\bin\Debug\TransControl_src.dll
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\bin\Debug\Agregar_usuario.exe.config
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.exe
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
