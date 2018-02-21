@@ -27,5 +27,17 @@ namespace Agregar_usuario
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            frmBusqueda busqueda = new frmBusqueda();
+            busqueda.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            frmAjustes ajustes = new frmAjustes();
+            ajustes.Show();
+        }
     }
 }

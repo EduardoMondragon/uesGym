@@ -26,6 +26,17 @@ namespace Agregar_usuario
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
+            
+        }
+
+        private void Log_in_Load(object sender, EventArgs e)
+        {
+            this.BackColor = Color.White;
+            this.TransparencyKey = Color.White;
+        }
+
+        private void transparentControl1_Click(object sender, EventArgs e)
+        {
 
         }
     }

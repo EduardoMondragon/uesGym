@@ -10,17 +10,16 @@ using System.Windows.Forms;
 
 namespace Agregar_usuario
 {
-    public partial class frmAjustes : Form
+    public partial class frmContra : Form
     {
-        public frmAjustes()
+        public frmContra()
         {
             InitializeComponent();
         }
 
-        private void btnContra_Click(object sender, EventArgs e)
+        private void Cambio_contrasena_Load(object sender, EventArgs e)
         {
-            frmContra contraseña = new frmContra();
-            contraseña.Show();
+
         }
     }
 }

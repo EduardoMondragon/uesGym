@@ -10,17 +10,20 @@ using System.Windows.Forms;
 
 namespace Agregar_usuario
 {
-    public partial class frmAjustes : Form
+    public partial class frmBusqueda : Form
     {
-        public frmAjustes()
+        public frmBusqueda()
         {
             InitializeComponent();
         }
 
-        private void btnContra_Click(object sender, EventArgs e)
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            frmContra contraseña = new frmContra();
-            contraseña.Show();
+                    }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

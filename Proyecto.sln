@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregar_usuario", "Agregar_usuario\Agregar_usuario.csproj", "{B61B3093-0631-4A3E-AB5F-3C036397DCE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ues_gym", "Agregar_usuario\Ues_gym.csproj", "{B61B3093-0631-4A3E-AB5F-3C036397DCE8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E5EBA90-1459-4919-A7D2-3D719D2B9874}"
 EndProject
