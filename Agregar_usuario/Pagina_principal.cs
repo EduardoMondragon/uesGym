@@ -39,5 +39,17 @@ namespace Agregar_usuario
             frmAjustes ajustes = new frmAjustes();
             ajustes.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            frmRegistros registros = new frmRegistros();
+            registros.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            frmCalendario calendario = new frmCalendario();
+            calendario.Show();
+        }
     }
 }
