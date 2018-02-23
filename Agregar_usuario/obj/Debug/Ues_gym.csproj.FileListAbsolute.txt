@@ -41,3 +41,6 @@ C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Ues_gym.cs
 C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.exe
 C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
 C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.frmLogin.resources
+C:\Users\Usuario\Source\Repos\Gym\Agregar_usuario\bin\Debug\Agregar_usuario.exe.config
+C:\Users\Usuario\Source\Repos\Gym\Agregar_usuario\obj\Debug\Agregar_usuario.exe
+C:\Users\Usuario\Source\Repos\Gym\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
