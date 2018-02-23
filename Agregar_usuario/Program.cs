@@ -16,7 +16,7 @@ namespace Agregar_usuario
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Log_in ());
+            Application.Run(new frmLogin ());
         }
     }
 }

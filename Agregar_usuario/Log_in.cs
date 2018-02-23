@@ -10,34 +10,27 @@ using System.Windows.Forms;
 
 namespace Agregar_usuario
 {
-    public partial class Log_in : Form
+    public partial class frmLogin : Form
     {
-        public Log_in()
+        public frmLogin()
         {
             InitializeComponent();
-           
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            frmprincipal a = new frmprincipal();
-            a.Show();
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-            
         }
 
         private void Log_in_Load(object sender, EventArgs e)
         {
-            this.BackColor = Color.White;
-            this.TransparencyKey = Color.White;
+
         }
 
-        private void transparentControl1_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmprincipal principal = new frmprincipal();
+            principal.Show();
         }
     }
 }

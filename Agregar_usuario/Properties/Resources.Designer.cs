@@ -163,6 +163,16 @@ namespace Agregar_usuario.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap REGISTRO {
+            get {
+                object obj = ResourceManager.GetObject("REGISTRO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap reportes {
             get {
                 object obj = ResourceManager.GetObject("reportes", resourceCulture);
@@ -186,6 +196,16 @@ namespace Agregar_usuario.Properties {
         internal static System.Drawing.Bitmap Webp_net_resizeimage__1_ {
             get {
                 object obj = ResourceManager.GetObject("Webp.net-resizeimage (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Webp_net_resizeimage__10_ {
+            get {
+                object obj = ResourceManager.GetObject("Webp.net-resizeimage (10)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

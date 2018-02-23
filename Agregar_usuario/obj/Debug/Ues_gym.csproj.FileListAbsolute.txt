@@ -26,3 +26,18 @@ C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.Log
 C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.frmprincipal.resources
 C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.Properties.Resources.resources
 C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Ues_gym.csproj.GenerateResource.Cache
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\bin\Debug\Agregar_usuario.exe.config
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\bin\Debug\Agregar_usuario.exe
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\bin\Debug\Agregar_usuario.pdb
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Ues_gym.csprojResolveAssemblyReference.cache
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.FrmAgregar.resources
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.frmAjustes.resources
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.frmBusqueda.resources
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.frmContra.resources
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.frmprincipal.resources
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.Properties.Resources.resources
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Ues_gym.csproj.GenerateResource.Cache
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Ues_gym.csproj.CoreCompileInputs.cache
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.exe
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
+C:\Users\Luisa Peralta\Source\Repos\uesGym4\Agregar_usuario\obj\Debug\Agregar_usuario.frmLogin.resources

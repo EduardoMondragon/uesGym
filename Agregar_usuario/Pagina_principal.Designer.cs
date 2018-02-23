@@ -35,14 +35,14 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button6 = new System.Windows.Forms.Button();
-            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -107,6 +107,25 @@
             this.label6.TabIndex = 12;
             this.label6.Text = "Sistema Administrativo Deportivo";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Candara", 25.8F);
+            this.label7.Location = new System.Drawing.Point(1291, 862);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(202, 53);
+            this.label7.TabIndex = 14;
+            this.label7.Text = "Registros ";
+            // 
+            // button6
+            // 
+            this.button6.Image = global::Agregar_usuario.Properties.Resources.Webp_net_resizeimage__10_;
+            this.button6.Location = new System.Drawing.Point(1280, 603);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(313, 257);
+            this.button6.TabIndex = 13;
+            this.button6.UseVisualStyleBackColor = true;
+            // 
             // button5
             // 
             this.button5.Image = global::Agregar_usuario.Properties.Resources.busqueda2;
@@ -165,24 +184,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(1280, 603);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(313, 257);
-            this.button6.TabIndex = 13;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Candara", 25.8F);
-            this.label7.Location = new System.Drawing.Point(1291, 862);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(202, 53);
-            this.label7.TabIndex = 14;
-            this.label7.Text = "Registros ";
             // 
             // frmprincipal
             // 
