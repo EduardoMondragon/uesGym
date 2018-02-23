@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="uesgym" Class="DBuesGymDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=USER-VAIO\SQLEXPRESS;Initial Catalog=uesgym;Integrated Security=True" SettingsObjectName="Agregar_usuario.Properties.Settings" SettingsPropertyName="uesgymConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.clientes" Member="clientes">
+    <Type Name="cliente">
+      <Column Name="id_cliente" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_tipo_cliente" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(130) NOT NULL" CanBeNull="false" />
+      <Column Name="correo" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="direccion" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="telefono" Type="System.String" DbType="Char(12) NOT NULL" CanBeNull="false" />
+      <Column Name="telefono_de_emergencia" Type="System.String" DbType="Char(12) NOT NULL" CanBeNull="false" />
+      <Column Name="status_membresia" Type="System.String" DbType="Char(2) NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_inicio_membresia" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_corte_membresia" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="certificado_medico" Type="System.String" DbType="Char(2) NOT NULL" CanBeNull="false" />
+      <Association Name="tipos_cliente_cliente" Member="tipos_cliente" ThisKey="id_tipo_cliente" OtherKey="id_tipo_cliente" Type="tipos_cliente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tipos_clientes" Member="tipos_clientes">
+    <Type Name="tipos_cliente">
+      <Column Name="id_tipo_cliente" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tipo_cliente" Type="System.String" DbType="VarChar(80) NOT NULL" CanBeNull="false" />
+      <Association Name="tipos_cliente_cliente" Member="clientes" ThisKey="id_tipo_cliente" OtherKey="id_tipo_cliente" Type="cliente" />
+    </Type>
+  </Table>
+  <Table Name="dbo.usuarios" Member="usuarios">
+    <Type Name="usuario">
+      <Column Name="id_usuario" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre_usuario" Type="System.String" DbType="VarChar(80) NOT NULL" CanBeNull="false" />
+      <Column Name="contraseña" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX) NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Function Name="dbo.insertarNuevoCliente" Method="insertarNuevoCliente">
+    <Parameter Name="nombre" Type="System.String" DbType="VarChar(110)" />
+    <Parameter Name="id_tipo_cliente" Type="System.Int32" DbType="Int" />
+    <Parameter Name="correo" Type="System.String" DbType="VarChar(60)" />
+    <Parameter Name="direccion" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="telefono" Type="System.String" DbType="Char(12)" />
+    <Parameter Name="telefono_de_emergencia" Type="System.String" DbType="Char(12)" />
+    <Parameter Name="status_membresia" Type="System.String" DbType="Char(2)" />
+    <Parameter Name="fecha_inicio_membresia" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="fecha_corte_membresia" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="certificado_medico" Type="System.String" DbType="Char(2)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

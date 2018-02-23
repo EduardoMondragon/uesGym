@@ -17,3 +17,12 @@ C:\Users\Luisa Peralta\Source\Repos\uesGym3\Agregar_usuario\bin\Debug\TransContr
 C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\bin\Debug\Agregar_usuario.exe.config
 C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.exe
 C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.pdb
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Ues_gym.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.FrmAgregar.resources
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.frmAjustes.resources
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.frmBusqueda.resources
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.frmContra.resources
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.Log_in.resources
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.frmprincipal.resources
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Agregar_usuario.Properties.Resources.resources
+C:\Users\User\Source\Repos\uesGym2\Agregar_usuario\obj\Debug\Ues_gym.csproj.GenerateResource.Cache
